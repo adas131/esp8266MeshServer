@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "core_esp8266_wiring.c": "cpp",
+        "libc_replacements.c": "cpp",
+        "core_esp8266_wiring_digital.c": "cpp"
+    },
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "default",
+    // "editor.fontSize": 13,
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Fira Code",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Flatland Monokai",
+    "workbench.iconTheme": "seti",
+    "platformio.enableTelemetry": false,
+    "platformio.baudRate": 115200,
+    "editor.autoClosingBrackets": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "telemetry.enableTelemetry": false,
+    "C_Cpp.clang_format_formatOnSave": true,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "100"
+}
